@@ -73,23 +73,23 @@ const Navbar = () => {
             ))}
             <div className="md:hidden mx-auto absolute bottom-16 left-1/2 -translate-x-1/2 flex gap-3">
               <Link
-                href="https://www.facebook.com/profile.php?id=100017192357822&sk"
+                href="https://www.facebook.com/configuresel/"
                 target="_blank"
               >
                 <FacebookOutlinedIcon className="cursor-pointer hover:text-rose-600 text-xl" />
               </Link>
               <Link
                 target="_blank"
-                href={"https://www.linkedin.com/in/naseem-khan-275275258/"}
+                href={"https://www.linkedin.com/in/configuresel/"}
               >
                 <LinkedInIcon className="cursor-pointer hover:text-rose-600 text-xl" />
               </Link>
-              <Link target="_blank" href={"https://github.com/NaseemKhan005/"}>
+              <Link target="_blank" href={"https://github.com/glenfalls/"}>
                 <GitHubIcon className="cursor-pointer hover:text-rose-600 text-xl" />
               </Link>
               <Link
                 target="_blank"
-                href={"https://www.instagram.com/naseem_khan005/"}
+                href={"https://www.instagram.com/configuresel/"}
               >
                 <InstagramIcon className="cursor-pointer hover:text-rose-600 text-xl" />
               </Link>
