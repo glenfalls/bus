@@ -9,8 +9,8 @@ const HeroSection = () => {
     >
       <div className="md:w-2/3 lg:w-1/2 container px-5 md:px-16 mx-auto">
         <h1 className="capitalize flex flex-col gap-2 md:gap-5 text-3xl sm:text-4xl md:text-[3.2rem] 2xl:text-6xl font-bold">
-          <p>top quality digital </p>
-          <p>products to explore</p>
+          <p>top quality WEB </p>
+          <p>Development Service</p>
         </h1>
         <p className="text-lg leading-normal sm:leading-loose my-4 md:my-6">
           Get your blood tests delivered at let home collect sample from the
