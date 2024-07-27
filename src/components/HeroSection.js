@@ -13,12 +13,10 @@ const HeroSection = () => {
           <p>Development Service</p>
         </h1>
         <p className="text-lg leading-normal sm:leading-loose my-4 md:my-6">
-          Get your blood tests delivered at let home collect sample from the
-          victory of the managements that supplies best design system guidelines
-          ever.
+          We bring your vision to life with cutting-edge design and seamless user experiences. Transform your online presence and reach your business goals with our expert team.
         </p>
         <button className="md:text-base text-sm hover:border-2 border-2 border-transparent font-semibold py-3 px-8 md:px-10 text-white bg-rose-600 hover:border-rose-600 hover:bg-transparent hover:text-rose-600 rounded-full">
-          <Link href="https://github.com/NaseemKhan005" target="_blank">
+          <Link href="https://github.com/dusqut" target="_blank">
             Explore
           </Link>
         </button>
